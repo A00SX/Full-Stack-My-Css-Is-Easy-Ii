@@ -1,0 +1,11 @@
+.cards
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 13.8vh;
+}
+#sidebar {
+    background-color: #c44747;
+    margin-left: 510px;
+}
